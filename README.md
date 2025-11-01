@@ -112,7 +112,7 @@ A lo largo del año desarrollaré los siguientes proyectos:
 ├── 01-Planificacion/
 ├── 02-Implementacion/
 └── ...
-
+´´´
 ---
 
 ### Detalles de cómo organizar cada tarea
@@ -131,6 +131,6 @@ Documentación (.md, PDF o capturas de pantalla)
 Recursos adicionales (imágenes, JSON, SQL, etc.)
 
 - Esto permite seguir el progreso de manera ordenada y que cualquier seleccionador pueda ver tu evolución.
-´´´
+
 
 ```
