@@ -85,6 +85,7 @@ A lo largo del año desarrollaré los siguientes proyectos:
 
 ---
 
+```text
 2DAM-Tareas/
 ├── README.md ← Explica el propósito y la estructura del repositorio
 ├── AccesoDatos/ ← Carpeta de la asignatura "Acceso a Datos"
@@ -130,3 +131,6 @@ Documentación (.md, PDF o capturas de pantalla)
 Recursos adicionales (imágenes, JSON, SQL, etc.)
 
 - Esto permite seguir el progreso de manera ordenada y que cualquier seleccionador pueda ver tu evolución.
+´´´
+
+```
